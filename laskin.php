@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fi">
 <meta charset="utf-8">
-<title>Laskin 2</title>
+<title>Laskin</title>
 </head>
 <body>
 
